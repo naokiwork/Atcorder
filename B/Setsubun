@@ -1,0 +1,13 @@
+#include<iostream>
+#include<cmath>
+using namespace std;
+int main() {
+    int N, K;//今年N歳、K個になるまで続ける。
+    cin >> N >> K;
+    int i = 0;//豆の数i
+
+    i(N+ (1/2) + (i/2)) = K
+
+    cout << i
+
+}
