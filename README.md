@@ -13,7 +13,7 @@ git checkout -b feature/xxx
 
 git switch main
 
-cd ~/Git-Hub_repository/AtCorder   feature/code
+cd ~/Git-Hub_repository/AtCorder
 
 ４、まとめてコミット 
 git add .

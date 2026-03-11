@@ -1,0 +1,33 @@
+番号
+問題
+コンテスト
+1
+ABC086 A Product
+ABC086
+2
+ABC081 A Placing Marbles
+ABC081
+3
+ABC087 A Buying Sweets
+ABC087
+4
+ABC083 A Libra
+ABC083
+5
+ABC088 A Infinite Coins
+ABC088
+6
+ABC089 A Grouping 2
+ABC089
+7
+ABC090 A Diagonal String
+ABC090
+8
+ABC091 A Two Coins
+ABC091
+9
+ABC093 A ABC of ABC
+ABC093
+10
+ABC094 A Cats and Dogs
+ABC094
